@@ -4,4 +4,4 @@
 #### You get a car! You get a car! YOU ALL GET CARS!
 
 This is an API made for Oprah Winfrey quotes. When launched the official site will be listed at https://www.oprahquotes.xyz/ . You can scrape from https://www.api.oprahquotes.xyz/ .
-More features from this API to come once version 1.0.0 is completed and released to PyPi
+More features from this API to come once version 1.0.0 is completed and released to PyPi.
