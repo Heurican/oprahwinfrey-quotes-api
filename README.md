@@ -1,2 +1,2 @@
 # oprahwinfrey-quotes-api
-a python API that you can scrape oprah winfrey quotes from.
+https://img.shields.io/static/v1?label=<dependencies:>&message=<flask>&color=<blueviolet>
