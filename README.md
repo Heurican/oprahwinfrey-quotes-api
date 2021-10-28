@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/83473782/139340482-6b73e273-8fef-4482-95f8-680dc3940c94.png)
+![image](https://user-images.githubusercontent.com/83473782/139340482-6b73e273-8fef-4482-95f8-680dc3940c94.png)
 # The Oprah Winfrey Quotes API!
 <a href='https://flask.palletsprojects.com/en/2.0.x/'> <img src ='https://img.shields.io/badge/dependecies-flask%202.0.2-violet' /> </a> <img src ='https://img.shields.io/badge/stability-experimental-important'/> <img src = 'https://img.shields.io/badge/version-1.0.0-brightgreen' /> <a href='https://www.python.org/downloads/'> <img src ='https://img.shields.io/badge/python-v3.9-blue'/> </a> <img src='https://img.shields.io/badge/supported%20os-Windows%20%7C%20MacOS%20%7C%20Linux-darkgreen'/> <img src='https://img.shields.io/badge/build-passing-darkgreen'/>
 
