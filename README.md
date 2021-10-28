@@ -14,6 +14,7 @@ Feel free to file an issue and I'll get right on it.
 
 Feel free to add your own quotes. Try to keep everything you put in there family-friendly (if Oprah ever even said anything NSFW? whatever). Just follow the normal indentation and
 make a new line (with proper indentation as mentioned before) and add 
+<br>
 ```{"quote": "add whatever quote you want here- no need to mention that oprah said it because guess what"}```
 
 ![image](https://user-images.githubusercontent.com/83473782/139338064-51f502a8-58c3-44f4-a82b-8e9a87c83c54.png)
