@@ -1,11 +1,16 @@
 ![image](https://user-images.githubusercontent.com/83473782/139340482-6b73e273-8fef-4482-95f8-680dc3940c94.png)
 # The Oprah Winfrey Quotes API!
-<a href='https://flask.palletsprojects.com/en/2.0.x/'> <img src ='https://img.shields.io/badge/dependecies-flask%202.0.2-violet' /> </a> <img src ='https://img.shields.io/badge/stability-experimental-important'/> <img src = 'https://img.shields.io/badge/version-1.0.0-brightgreen' /> <a href='https://www.python.org/downloads/'> <img src ='https://img.shields.io/badge/python-v3.9-blue'/> </a> <img src='https://img.shields.io/badge/supported%20os-Windows%20%7C%20MacOS%20%7C%20Linux-darkgreen'/> <img src='https://img.shields.io/badge/build-passing-darkgreen'/>
+<a href='https://flask.palletsprojects.com/en/2.0.x/'> <img src ='https://img.shields.io/badge/dependecies-flask%202.0.2-violet' /> </a> <img src ='https://img.shields.io/badge/stability-experimental-important'/> <img src = 'https://img.shields.io/badge/version-1.1.0-brightgreen' /> <a href='https://www.python.org/downloads/'> <img src ='https://img.shields.io/badge/python-v3.9-blue'/> </a> <img src='https://img.shields.io/badge/supported%20os-Windows%20%7C%20MacOS%20%7C%20Linux-darkgreen'/> <img src='https://img.shields.io/badge/build-passing-darkgreen'/>
 
 #### You get a car! You get a car! YOU ALL GET CARS!
 
 This is an API made for Oprah Winfrey quotes. With 20 quotes of quality Oprah Winfrey, this API is the perfect solution for smaller-scale (or larger scale!) discord bot
 developers, web app creators, and just people like me, only interested in messing around. You can see all the quotes in quotes.json in the repo.
+
+#### Latest changes
+
+The code choosing a random quote was better optimized. The original basically took an already-made list and created a new list out of it, then chose a random quote from said list. 
+The most recent commit changes that, instead choosing only from the already made list.
 
 #### See an issue?
 
