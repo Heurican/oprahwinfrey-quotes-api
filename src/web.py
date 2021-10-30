@@ -7,13 +7,9 @@ f = open('quotes.json',)
  
 # returns JSON object as a dict
 data = json.load(f)
-all_quotes=[]
-#iterating through the json, making the dict into a list
-for i in data['quotes']:
-  all_quotes.append(i)
-  pass
-
-randquote = random.choice(all_quotes)
+# I already made a list in json called "quotes" so why am I making another list out of that list iterating through the same list? So inefficient. just going to choose a random
+#quote from the list i already made in quotes.json
+randquote = random.choice(data['quotes'])
 
 @app.route('/')
 def return_quote():
